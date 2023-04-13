@@ -1,0 +1,28 @@
+.Todo{
+    width: 85%;
+    height: 40px;
+    margin-top: 20px;
+    background-color: #F9D949;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    border-radius: 5px;
+}
+.main-container-todo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    width: 35px;
+    height: 35px;
+    margin: 15px;
+}
+.incomplete{
+    color: red;
+}
+.complete{
+    color: green;
+}

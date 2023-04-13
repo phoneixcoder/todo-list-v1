@@ -1,0 +1,13 @@
+.main-container{
+    width: 40%;
+    height: 80vh;
+    background-color: #3C486B;
+    border-radius: 10px;
+    overflow-y: scroll;
+}
+
+.main-container h2 {
+    padding-top: 20px;
+    padding-left: 20px;
+    color: #F9D949;
+}

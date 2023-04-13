@@ -1,0 +1,22 @@
+.form{
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.input-task{
+    width: 75%;
+    height: 45px;
+    border-radius: 5px;
+    padding-left: 10px;
+    font-size: 16px;
+}
+.input-task:focus{
+    outline: none;
+}
+.add-task-button{
+    background-color: #F45050;
+    color: #F0F0F0;
+    border-radius: 5px;
+    width: 20%;
+}
